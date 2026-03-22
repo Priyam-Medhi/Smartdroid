@@ -1,4 +1,6 @@
 WakeUp+ : Active-Dismissal Alarm Application
+
+
 Overview
 WakeUp+ is a Flutter-based mobile application designed to solve the problem of alarm circumvention. Instead of a standard dismissal button, the application enforces wakefulness by requiring the user to complete a randomized cognitive puzzle before the system-level alarm and hardware vibration can be deactivated.
 
